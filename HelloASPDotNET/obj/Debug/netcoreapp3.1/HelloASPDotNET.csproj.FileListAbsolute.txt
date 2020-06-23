@@ -35,3 +35,5 @@ D:\LC_Classwork\C# Projects\Learning ASP.NET\HelloASPDotNET\HelloASPDotNET\obj\D
 D:\LC_Classwork\C# Projects\Learning ASP.NET\HelloASPDotNET\HelloASPDotNET\obj\Debug\netcoreapp3.1\HelloASPDotNET.pdb
 D:\LC_Classwork\C# Projects\Learning ASP.NET\HelloASPDotNET\HelloASPDotNET\obj\Debug\netcoreapp3.1\HelloASPDotNET.genruntimeconfig.cache
 D:\LC_Classwork\C# Projects\Learning ASP.NET\HelloASPDotNET\HelloASPDotNET\obj\Debug\netcoreapp3.1\HelloASPDotNET.csproj.CopyComplete
+D:\LC_Classwork\C# Projects\Learning ASP.NET\HelloASPDotNET\HelloASPDotNET\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Index.cshtml.g.cs
+D:\LC_Classwork\C# Projects\Learning ASP.NET\HelloASPDotNET\HelloASPDotNET\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Welcome.cshtml.g.cs
